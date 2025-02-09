@@ -1,2 +1,2 @@
 # react-fullstack
-A simple fullstack web on simple text box using multiple different framework and component
+A simple React fullstack web on simple text box using multiple different framework and component
